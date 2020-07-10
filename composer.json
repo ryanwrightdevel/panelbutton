@@ -1,0 +1,12 @@
+{
+  "name": "copperturn-drupal/panelbutton",
+  "description": "CKEditor panelbutton plugin",
+  "type": "drupal-library",
+  "authors": [
+    {
+      "name": "Ryan Wright",
+      "email": "ryanwrightdev@gmail.com"
+    }
+  ],
+  "require": {}
+}
