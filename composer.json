@@ -1,5 +1,5 @@
 {
-  "name": "copperturn-drupal/panelbutton",
+  "name": "ryanwrightdevel/panelbutton",
   "description": "CKEditor panelbutton plugin",
   "type": "drupal-library",
   "authors": [
@@ -9,4 +9,4 @@
     }
   ],
   "require": {}
-}
+}:w:
